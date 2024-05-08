@@ -1,4 +1,4 @@
-<h1 align="center">SSH Ramdisk Script</h1>
+<h1 align="center">SSH Ramdisk Script for 2ndra1n</h1>
 <p align="center">
   <a href="https://github.com/verygenericname/SSHRD_Script/graphs/contributors" target="_blank">
     <img src="https://img.shields.io/github/contributors/verygenericname/SSHRD_Script.svg" alt="Contributors">
